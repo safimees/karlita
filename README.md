@@ -1,2 +1,0 @@
-# karlita
-karlita pag
