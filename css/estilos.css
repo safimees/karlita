@@ -1,0 +1,36 @@
+body {
+    background-image: url(AZUL.jpg)
+}
+
+h1 {
+    font-family: Arial;
+    text-indent: 45px;
+    margin: 25px 25px 25px 25px
+}
+
+h2 {
+    font-family: Arial Black;
+    text-indent: 25px;
+    margin: 25px 20px 25px 20px
+}
+
+h3 {
+    font-family: Comic Sans;
+    text-indent: 10px;
+    margin: 10px 10px 10px 10px
+}
+
+h4 {
+    font-family: Century;
+    text-indent: 29px;
+    margin: 10px 10px 10px 10px
+}
+
+p {
+    font-family: BroadWay;
+    font-size: 29px;
+    color: #0000FF;
+    text-align: center;
+    text-indent: 5px;
+    margin: 35px 30px 15px 20px
+}
